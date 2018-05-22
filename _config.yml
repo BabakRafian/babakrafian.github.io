@@ -1,12 +1,12 @@
 # Site settings
-title: Babak's site
+title: Babak's potfolio
 description: A blog about lorem ipsum dolor sit amet
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: babak rafian
-user_description: 
+user_description:
 user_title: machine learning / software engineer
 email: babak.rafian@gmail.com
 twitter_username: lorem_ipsum
